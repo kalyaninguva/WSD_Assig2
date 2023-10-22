@@ -1,0 +1,20 @@
+body{
+    font-style: italic;
+}
+
+#output_1{
+    color: red;
+}
+
+#output_2{
+    color: red;
+}
+
+#output_3{
+    color: red;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
